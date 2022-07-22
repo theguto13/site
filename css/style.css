@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    font-family: "SegoeUI", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+@font-face {
+    font-family: SegoeUI;
+    src: url(../fonts/segoeui.ttf);
+}
+body{
+    min-height: 100vh;
+    background-color: #181818;
+}
